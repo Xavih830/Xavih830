@@ -8,10 +8,10 @@ proyectos y mis intereses.
 * [Intereses](#intereses)
   
 ## Información personal
-* Nombre: Xavier Homero Camacho Galarza.
-* Ocupación: Estudiante de Ingeniería en Computación en la ESPOL.
-* Lugar de residencia: Guayaquil, Ecuador.
-* Sitio web: [Xavier Camacho](https://xavih830.github.io/Xavih830)
+* **Nombre:** Xavier Homero Camacho Galarza.
+* **Ocupación:** Estudiante de Ingeniería en Computación en la ESPOL.
+* **Lugar de residencia:** Guayaquil, Ecuador.
+* **Sitio web:** [Xavier Camacho](https://xavih830.github.io/Xavih830)
   
 ## Proyectos
 * [Lista de tus proyectos]
