@@ -16,9 +16,9 @@ proyectos y mis intereses.
 * **Sitio web:** [Sitio web de Xavier Camacho](https://xavih830.github.io/Xavih830)
   
 ## Proyectos
-* **App de productividad y enfoque:** App web que procura que te encuentres enfocado en tus objetivos dejando a un lado la dopamina otorgada por apps disruptivas y consiguiendo dopamina de actividades que se alinean con tus objetivos, aprovechando el tiempo de una forma más óptima ([Link](https://github.com/Xavih830/Lock-In)).
-* **App para comparar costes a largo plazo entre dos políticas de RRHH:**[Link](https://github.com/Xavih830/proyectoAL)
-* **App para generar una tabla con tus horarios de estudio:**[Link](https://github.com/Xavih830/creaHorarios)
+* **App de productividad y enfoque:** App web que procura que te encuentres enfocado en tus objetivos dejando a un lado la dopamina otorgada por apps disruptivas y consiguiendo dopamina de actividades que se alinean con tus metas, aprovechando el tiempo de una forma más óptima. Las tecnologías usadas en este proyecto se encuentran frameworks como Vite y Tailwind CSS, librerías como React y shadcn-ui, mientras que como lenguaje se usó TypeScript([link](https://github.com/Xavih830/Lock-In)).
+* **App para comparar costes a largo plazo entre dos políticas de RRHH:**[link](https://github.com/Xavih830/proyectoAL)
+* **App para generar una tabla con tus horarios de estudio:**[link](https://github.com/Xavih830/creaHorarios)
   
 ## Intereses
 * Jugar videojuegos, en especial la saga FIFA.
