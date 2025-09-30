@@ -8,20 +8,22 @@ proyectos y mis intereses.
 * [Intereses](#intereses)
   
 ## Información personal
-![alt text](Foto codeforces.jpg)
+![Foto de Xavier Camacho](Foto githubPages.jpg)
 * **Nombre:** Xavier Homero Camacho Galarza.
 * **Ocupación:** Estudiante de Ingeniería en Computación en la ESPOL.
 * **Lugar de residencia:** Guayaquil, Ecuador.
 * **Correo institucional:** xcamacho@espol.edu.ec.
-* **Sitio web:** [Xavier Camacho](https://xavih830.github.io/Xavih830)
+* **Sitio web:** [Sitio web de Xavier Camacho](https://xavih830.github.io/Xavih830)
   
 ## Proyectos
-* [App de productividad y enfoque](https://github.com/Xavih830/Lock-In)
-* [App de consola para calcular el sueldo de un trabajador](https://github.com/Xavih830/proyectoAL)
-* [App para crear horarios](https://github.com/Xavih830/creaHorarios)
+* **App de productividad y enfoque:** App web que procura que te encuentres enfocado en tus objetivos dejando a un lado la dopamina otorgada por apps disruptivas y consiguiendo dopamina de actividades que se alinean con tus objetivos, aprovechando el tiempo de una forma más óptima ([Link](https://github.com/Xavih830/Lock-In)).
+* **App para comparar costes a largo plazo entre dos políticas de RRHH:**[Link](https://github.com/Xavih830/proyectoAL)
+* **App para generar una tabla con tus horarios de estudio:**[Link](https://github.com/Xavih830/creaHorarios)
   
 ## Intereses
 * Jugar videojuegos, en especial la saga FIFA.
 * Leer libros o artículos que se relacionen con la belleza y psicología humana.
 * Realizar ejercicio físico.
 * Crear contenido de valor para la sociedad.
+* Jugar y pasar tiempo con mi perrita.
+* Salir o hablar con mi familia y amigos.
